@@ -1,0 +1,3 @@
+An LSTM based algorithmic high frequency trading system using a sequence model neural network to capture price movements, make accurate
+predictions and execute trades in a position neutral strategy at the end. The algorithm executes buy/sell orders and squares off the orders
+every subsequent timestep thereby mitigating large drawdowns and securing profits as soon as possible. Consistently generated stable monotonic returns on a range of stocks with very low variance. 
